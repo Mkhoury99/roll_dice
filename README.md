@@ -1,6 +1,6 @@
 # roll_dice
 
-A new Flutter project.
+A new Flutter project. Randomly generates a dice throw when pressing the button
 
 ## Getting Started
 
